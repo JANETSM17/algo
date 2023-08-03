@@ -1,0 +1,10 @@
+/* Estilo para el fondo del elemento con clase "mi-elemento" */
+.mi-elemento {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+/* Estilo para el color del texto dentro del elemento con clase "mi-elemento" */
+.mi-elemento h1, .mi-elemento p {
+    color: navy;
+}
