@@ -7,4 +7,5 @@
 /* Estilo para el color del texto dentro del elemento con clase "mi-elemento" */
 .mi-elemento h1, .mi-elemento p {
     color: navy;
+    font-size: 24px;
 }
